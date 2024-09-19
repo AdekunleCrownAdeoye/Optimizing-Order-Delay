@@ -1,6 +1,5 @@
 # Optimizing Order Delay
 
-
 ## Table of Content
 
 - [Project Overview](#project-overview)
@@ -12,11 +11,10 @@
 - [Recommendations](#recommendations)
 - [Limitations](#limitations)
 
-
 ### Project Overview
 ---
 
-A data analysis project utilizing Excel identified a significant order backlog and delivery delays impacting customer satisfaction. The analysis revealed that driver performance, route characteristics, and vehicle type contribute to these delays.
+- A data analysis project utilizing Excel identified a significant order backlog and delivery delays impacting customer satisfaction. The analysis revealed that driver performance, route characteristics, and vehicle type contribute to these delays.
 
 ![Dashboard](https://github.com/user-attachments/assets/35cfb1c4-6607-4692-93fb-e36995e1ddb1)
 
